@@ -1,0 +1,137 @@
+﻿@charset "utf-8";
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:Calibri;
+    font-size: 15px;
+}
+h1 {
+    font-family:Tahoma;
+	color:#FFFFFF;
+}
+.button
+{
+	color: #FFFFFF;
+	background-color:#0D4270;
+}
+.heading
+{
+	font-family:Calibri (Body),Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+padding-left:5px;
+margin: 0px;
+color: #FFFFFF;
+/*background-color:#0D4270;*/
+background-color:#212463;
+}
+	
+.header
+{ 
+	background: white url('../images/header.jpg') repeat left center;
+	
+
+}
+.logo
+{
+	background: white url('../images/3Dlogo.jpg');
+	right:auto;
+}
+	/*"""""""" For Menu""""""""*/	
+	.vertmenu {
+font-family:Calibri (Body),Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+width: 133px;
+padding-left:0px;
+margin: 0px;
+}
+
+.vertmenu ul {
+list-style: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+.vertmenu ul li {
+margin: 0px;
+padding: 0px;
+}
+.vertmenu ul li a {
+	display: block;
+	/*border-bottom: 1px dashed #a6a2a2;*/
+	padding: 15px 0px 7px 25px;
+	text-decoration: none;
+	/*color: #FFFFFF;*/
+	color: #212463;
+	/*width:150px;chaged by mahi*/
+	width:145px;
+	/*border-bottom: 1px dotted #0D4270;*/
+	background-attachment: scroll;
+	background-image: url(../images/Button_00-01.png);
+	background-repeat: no-repeat;
+/*	background-position: 13px center; chaged by mahi*/
+	background-position: 6px center;
+	text-decoration:none;
+}
+.vertmenu ul li div a {
+	display: block;
+	/*border-bottom: 1px dashed #a6a2a2;*/
+	padding: 7px 0px 7px 25px;
+	text-decoration: none;
+	/*color: #FFFFFF;*/
+	color: #212463;
+	width:143px;
+	/*border-bottom: 1px dotted #0D4270;*/
+	background-attachment: scroll;
+	/*background-image: url(../images/lock-icon.png);*/
+	background-repeat: no-repeat;
+	background-position: 13px center;
+	text-decoration:none;
+}
+
+.vertmenu ul li a:hover, #vertmenu ul li a:focus{
+color: #FFFFFF;
+background-color:#0D4270;
+/*background-image: url(../images/Button_00-02.png);*/
+text-decoration:none;
+}
+.vertmenu ul li .vercurrent {
+    color: #FFFFFF;
+	text-decoration:none;
+    background-color:#0D4270;
+    /*background-image: url(../images/Button_00-02.png);*/
+}
+.modalBackground 
+{ 
+    background-color: Gray; 
+    filter: alpha(opacity=50); 
+    opacity: 0.50; 
+} 
+.updateProgress 
+{ 
+    border-width: 1px; 
+    border-style: solid; 
+    background-color: #FFFFFF; 
+    position: absolute; 
+    width: 180px; 
+    height: 65px; 
+} 
+
+
+.imgbtn
+{
+  padding:2 0 0 0;
+  float:left;
+}
+	
+.imgbtn1
+{
+  padding:2 0 0 0;
+}	
+
+.imgbtn2
+{
+ padding:2 0 0 0;
+ float:right;
+}
