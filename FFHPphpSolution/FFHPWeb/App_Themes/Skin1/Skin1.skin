@@ -1,0 +1,28 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:GridView runat="server" CellPadding="2" EmptyDataText="No Records Found" EmptyDataRowStyle-ForeColor="red" EmptyDataRowStyle-HorizontalAlign="Center" 
+     Pagesize="10" ForeColor="Red" width="100%" AllowPaging=false 
+     BorderStyle="Inset"  BorderColor="#D6EBF7" BorderWidth="1px" FooterStyle-BackColor=AliceBlue 
+     AllowSorting=true AutoGenerateColumns=false >
+   <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+   <RowStyle Horizontalalign="left" Font-Size=15px Font-Names="Calibri (Body)" BackColor="#F7F7DE" ForeColor="#212463" />
+   <EditRowStyle BackColor="#999999" />
+   <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
+   <PagerStyle BackColor="White" ForeColor="black" HorizontalAlign="left" />
+   <HeaderStyle Horizontalalign="left" height=25 BackColor="#0071BD" Font-Bold="True" Font-Size=12 Font-Names="Calibri (Body)" ForeColor="White" 
+   />
+   <AlternatingRowStyle BackColor="#CEE7F7" ForeColor="#212463" />
+</asp:GridView>

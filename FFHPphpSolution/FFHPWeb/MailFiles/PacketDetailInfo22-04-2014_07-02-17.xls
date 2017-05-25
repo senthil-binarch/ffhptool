@@ -1,0 +1,91 @@
+<div>
+	<table cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVMail" style="color:Red;border-color:#D6EBF7;border-width:1px;border-style:Inset;width:100%;border-collapse:collapse;">
+		<tr align="left" style="color:White;background-color:#0071BD;font-family:arial;font-size:10pt;font-weight:bold;height:25px;">
+			<th scope="col">Serial No</th><th scope="col">Name</th><th align="right" scope="col">No. of Packets</th>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    1
+    </td><td>Arakeerai (1 bundle) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    2
+    </td><td>B.M 2.5Kgs Rs. 280 - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    3
+    </td><td>Banana Stem [Valathandu] (1pc) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    4
+    </td><td>Beans (500g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    5
+    </td><td>Beetroot (300g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    6
+    </td><td>Bittergourd [Pavarkai] (250g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    7
+    </td><td>Broad beans [Avarakai] (250g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    8
+    </td><td>Capsicum (250g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    9
+    </td><td>Carrot (500g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    10
+    </td><td>Cauliflower (1pc) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    11
+    </td><td>Coriander (1 bundle) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    12
+    </td><td>Cucumber (250g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    13
+    </td><td>Curryleaves (1 bundle) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    14
+    </td><td>Ginger (150g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    15
+    </td><td>Greenchilli (150g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    16
+    </td><td>Ladiesfinger (500g) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    17
+    </td><td>Mint (1 bundle) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    18
+    </td><td>Potato (500g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    19
+    </td><td>Radish [Mullangi] (250g)  - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    20
+    </td><td>Tomato [Naadu] (1Kg) - YOYO</td><td align="right">1</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    21
+    </td><td>Yellow Pumpkin (250g) - YOYO</td><td align="right">1</td>
+		</tr>
+	</table>
+</div>

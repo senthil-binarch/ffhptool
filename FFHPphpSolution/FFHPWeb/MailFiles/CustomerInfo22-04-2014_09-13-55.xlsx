@@ -1,0 +1,31 @@
+<div>
+	<table cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVMail" style="color:Red;border-color:#D6EBF7;border-width:1px;border-style:Inset;width:100%;border-collapse:collapse;">
+		<tr align="left" style="color:White;background-color:#0071BD;font-family:arial;font-size:10pt;font-weight:bold;height:25px;">
+			<th scope="col">Sno</th><th scope="col">Order #</th><th scope="col">Name</th><th scope="col">Address</th><th scope="col">Pack</th>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    1
+    </td><td>735</td><td>Sridhar Rao  Chaganti</td><td>New 6, Old 32/1 Arundale Beach Road, Kalakshetra Colony, Chennai, Tamilnadu, 600090, India, T:9840033448</td><td>Westo Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    2
+    </td><td>736</td><td>Vani  Sengupta</td><td>5G, 3rd Block Ceebros Shyamala Gardens, Arcot Road, Vadapalani, Chennai, Tamilnadu, 600093, India, T:9003095752</td><td>YOYO Combo</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    3
+    </td><td>738</td><td>Sultanali Lakdawalla</td><td>D-4, Hadi Residency, 50, Halls Road, Kilpauk,, Chennai, Tamilnadu, 600010, India, T:9940411760</td><td>YOYO 10</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    4
+    </td><td>739</td><td>natarajan banumathy</td><td>175, Susho Samrat Apts, Flat#1B Rangarajapuram Main Road,Rangarajapuram, chennai, Tamilnadu, 600026, India, T:9444924768</td><td>YOYO Combo</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    5
+    </td><td>740</td><td>ARUN PAREKH</td><td>NEW NO. 424 (OLD NO. 755/2), POONAMALLEE HIGH ROAD, KILPAUK,, Chennai, Tamilnadu, 600010, India, T:9840070089</td><td>Westo Pack, Banganapalli  2.5Kgs</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    6
+    </td><td>741</td><td>nithya anand</td><td>H1D, CDS Regal Palm Garden, Between Sutherland and Adyar Ananda Bhavan, Vijayanagar, Velachery tamabram main road, velachery, chennai, Tamilnadu, 600042, India, T:9841062381</td><td>YOYO 25</td>
+		</tr>
+	</table>
+</div>

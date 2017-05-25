@@ -1,0 +1,262 @@
+Product_Id,Name,PACKING STYLE,PLACEMENT,Description,Pc/kg,Product_Group,Classification,ProductCode
+241,Broccoli,W,M, Pc,1,1,0,110241
+247,Coconut,VP,B, Pc,1,1,0,110247
+249,Cauliflower,W,M, Pc,1,1,0,110249
+258,Lemon small,VP,B, Pc,1,1,0,110258
+262,Drumstick,CW,B, Pc,1,1,0,110262
+268,Snake Gourd,W,T, Pc,1,1,0,110268
+273,Bottle Gourd,VP,B, Pc,1,1,0,110273
+274,Sweet Corn,VP,B, Pc,1,1,0,110274
+278,Raw Banana,VP,B, Pc,1,1,0,110278
+279,Banana Pith,W,B, Pc,1,1,0,110279
+284,Banana Flower,W,B, Pc,1,1,0,110284
+297,Baby Corn,VP,T, Pc,1,1,0,110297
+299,Baby Potato,VP,B, Pc,1,1,0,110299
+302,Spring onion,W,T, Pc,1,1,0,110302
+334,Chineese Cabbage,W,B, Pc,1,1,0,110334
+335,Celery,W,T, Pc,1,1,0,110335
+336,Leeks,W,T, Pc,1,1,0,110336
+343,Zuccini,W,M, Pc,1,1,0,110343
+344,Ooty Cucumber,VP,M, Pc,1,1,0,110344
+354,Thala Ilai,NA,T, Pc,1,1,0,110354
+368,Yellow Zuccini,W,M, Pc,1,1,0,110368
+370,Lemon-Big,VP,B, Pc,1,1,0,110370
+406,Button Mushroom,VP,T, Pc,1,1,0,110406
+411,Banana Pith-Cut,CB,T, Pc,1,1,1,111411
+390,Yam-No-Cut,W,B, Pc,1,1,2,112390
+391,Ash Gourd-No-Cut,VP,B, Pc,1,1,2,112391
+392,Yellow-Pumpkin-No-Cut,VP,B, Pc,1,1,2,112392
+298,Baby Corn-Peeled,W,T, Pc,1,1,3,113298
+319,Muskmelon,W,B, Pc,1,2,0,120319
+320,Papaya,W,M, Pc,1,2,0,120320
+345,Pineapple,W,B, Pc,1,2,0,120345
+346,Watermelon Hybrid,FP,B, Pc,1,2,0,120346
+232,Arai Keerai - Amaranthus Tricolor,G,T, Pc,1,3,0,130232
+248,Coriander,G,T, Pc,1,3,0,130248
+251,Curryleaves,G,T, Pc,1,3,0,130251
+260,Mint,G,T, Pc,1,3,0,130260
+265,Palak Keerai - Palak,G,T, Pc,1,3,0,130265
+275,Thandu Keerai - Amaranthus Tender,G,T, Pc,1,3,0,130275
+301,Pasalai Keerai -Spinach green,G,T, Pc,1,3,0,130301
+337,Manathakkalai Keerai,G,T, Pc,1,3,0,130337
+339,Siru Keerai - Tropical Amaranth,G,T, Pc,1,3,0,130339
+340,Mulai Keerai  - Amaranth,G,T, Pc,1,3,0,130340
+341,Pulicha Keerai - Sorrel Leaves,G,T, Pc,1,3,0,130341
+425,Ponnanganni Keerai,G,T, Pc,1,3,0,130425
+300,Mudakkathan Keerai-Destem,GD,T, Pc,1,3,4,134300
+303,Thuthuvalai - Destem,GD,T, Pc,1,3,4,134303
+304,Vallarai Keerai - Destem,GD,T, Pc,1,3,4,134304
+398,Arai Keerai - Destem,GD,T, Pc,1,3,4,134398
+399,Palak Keerai - Palak-Destem,GD,T, Pc,1,3,4,134399
+400,Thandu Keerai - Destem,GD,T, Pc,1,3,4,134400
+401,Pulicha Keerai - Sorrel Leaves-Destem,GD,T, Pc,1,3,4,134401
+402,Mulai Keerai  - Amaranth-Destem,GD,T, Pc,1,3,4,134402
+403,Siru Keerai - Tropical Amaranth-Destem,GD,T, Pc,1,3,4,134403
+404,Manathakkalai Keerai - Destem,GD,T, Pc,1,3,4,134404
+405,Pasalai Keerai -Spinach green-Destem,GD,T, Pc,1,3,4,134405
+333,BIG Green Banana TREE,NA,NA, Pc,1,4,0,140333
+355,Beetle Leaf,VP,T, Pc,1,4,0,140355
+356,Edu Ilai,NA,T, Pc,1,4,0,140356
+233,Broad Beans,VP,M,Kg,9,1,0,910233
+235,Ring Beans,VP,M,Kg,9,1,0,910235
+236,Beetroot,VP,B,Kg,9,1,0,910236
+237,Big Onion,VP,B,Kg,9,1,0,910237
+238,Brinjal Vari,VP,M,Kg,9,1,0,910238
+239,Brinjal Ujala,VP,M,Kg,9,1,0,910239
+240,Brinjal Subal,VP,M,Kg,9,1,0,910240
+242,Cabbage,CW,M,Kg,9,1,0,910242
+243,Capsicum Green,VP,T,Kg,9,1,0,910243
+244,Capsicum Red,VP,T,Kg,9,1,0,910244
+245,Capsicum Yellow,VP,T,Kg,9,1,0,910245
+246,Carrot,VP,B,Kg,9,1,0,910246
+250,Cucumber,VP,M,Kg,9,1,0,910250
+253,Greenchilli,VP,M,Kg,9,1,0,910253
+254,Ground nut,VP,M,Kg,9,1,0,910254
+255,Cluster Beans,VP,M,Kg,9,1,0,910255
+257,Ladiesfinger,VP,M,Kg,9,1,0,910257
+259,Small Bitter Gourd,VP,M,Kg,9,1,0,910259
+261,Radish,VP,B,Kg,9,1,0,910261
+264,Turnip,VP,B,Kg,9,1,0,910264
+266,Bitter Gourd,VP,M,Kg,9,1,0,910266
+267,Potato,VP,B,Kg,9,1,0,910267
+270,Taro Root,VP,B,Kg,9,1,0,910270
+271,Small Onion,VP,B,Kg,9,1,0,910271
+272,Chowchow,VP,B,Kg,9,1,0,910272
+276,Tomato-Bangalore,VP,T,Kg,9,1,0,910276
+277,Tomato-Naadu,VP,T,Kg,9,1,0,910277
+280,Ash Gourd,CW,M,Kg,9,1,0,910280
+281,Yellow Pumpkin,CW,M,Kg,9,1,0,910281
+283,Chilli Bajji,VP,M,Kg,9,1,0,910283
+286,Butter Beans,VP,M,Kg,9,1,0,910286
+289,Ivy Gourd,VP,M,Kg,9,1,0,910289
+290,Long Beans,VP,M,Kg,9,1,0,910290
+292,Raw Mango,VP,B,Kg,9,1,0,910292
+294,Sweet Potato,VP,B,Kg,9,1,0,910294
+296,Yam,CW,B,Kg,9,1,0,910296
+321,Field beans,VP,M,Kg,9,1,0,910321
+342,Red Cabbage,CW,M,Kg,9,1,0,910342
+350,Turkey Berry,VP,B,Kg,9,1,0,910350
+358,Brinjal Disco,VP,M,Kg,9,1,0,910358
+359,Brinjal Palayam,VP,M,Kg,9,1,0,910359
+360,Brinjal Tube,VP,M,Kg,9,1,0,910360
+361,Tapioca,VP,B,Kg,9,1,0,910361
+363,Broad Beans-Country,VP,M,Kg,9,1,0,910363
+365,Ginger,VP,B,Kg,9,1,0,910365
+372,White Beans,VP,M,Kg,9,1,0,910372
+407,Ridge Gourd,CW,M,Kg,9,1,0,910407
+408,Pigeon Pea,VP,M,Kg,9,1,0,910408
+409,Green Peas,VP,M,Kg,9,1,0,910409
+415,Cauliflower Florets,CB,T,Kg,9,1,0,910415
+428,Lettuce,CW,M,Kg,9,1,0,910428
+431,Siru Kizhangu,VP,B,Kg,9,1,0,910431
+377,Big-Onion-Cut,CB,T,Kg,9,1,1,911377
+381,Ladiesfinger-Cut,CB,T,Kg,9,1,1,911381
+383,Carrot-Coin-Cut,CB,T,Kg,9,1,1,911383
+384,Carrot-Sticks-Cut,CB,T,Kg,9,1,1,911384
+385,Carrot-Diced-Cut,CB,T,Kg,9,1,1,911385
+386,Cucumber-Coin-Cut,CB,T,Kg,9,1,1,911386
+387,Ooty-Cucumber-Coin-Cut,CB,T,Kg,9,1,1,911387
+388,Bitter-Gourd-Cut,CB,T,Kg,9,1,1,911388
+412,Ring Beans-Cut,CB,T,Kg,9,1,1,911412
+413,White Beans-Cut,CB,T,Kg,9,1,1,911413
+414,Long Beans-Cut,CB,T,Kg,9,1,1,911414
+416,Raw Banana-Cut,CB,T,Kg,9,1,1,911416
+417,Snake Gourd-Cut,CB,T,Kg,9,1,1,911417
+418,Cluster Beans-Cut,CB,T,Kg,9,1,1,911418
+419,Ridge Gourd-Cut,CB,T,Kg,9,1,1,911419
+420,Yam-Cut,CB,T,Kg,9,1,1,911420
+389,Cabbage-No-Cut,CB,T, Pc,1,1,2,112389
+376,Small-Onion-Peeled,CB,T,Kg,9,1,3,913376
+382,Ground-nut-Peeled,CB,T,Kg,9,1,3,913382
+308,Banana-Morris,FP,T,Kg,9,2,0,920308
+309,Banana (RED),FP,T,Kg,9,2,0,920309
+310,Grapes (Juice),FP,T,Kg,9,2,0,920310
+311,Guava,FP,M,Kg,9,2,0,920311
+314,Orange Kamala,FP,M,Kg,9,2,0,920314
+315,Pears,FP,B,Kg,9,2,0,920315
+317,Pomegranate,FP,B,Kg,9,2,0,920317
+369,Apple Fuji,FP,B,Kg,9,2,0,920369
+371,Sweet Lime,FP,B,Kg,9,2,0,920371
+421,Sapota,FP,T,Kg,9,2,0,920421
+427,Banana poovan,FP,T,Kg,9,2,0,920427
+429,Grapes Black Seedless,FP,T,Kg,9,2,0,920429
+430,Grapes Green Seedless,FP,T,Kg,9,2,0,920430
+393,Muskmelon-Cut,CB,T,Kg,9,2,1,921393
+395,Papaya-Cut,CB,T,Kg,9,2,1,921395
+396,Pineapple-Cut,CB,T,Kg,9,2,1,921396
+394,Orange-Peeled,CB,T,Kg,9,2,3,923394
+397,Pomegranate-Peeled,CB,T,Kg,9,2,3,923397
+234,Amla,VP,B,Kg,9,4,0,940234
+285,Garlic-Malai,VP,B,Kg,9,4,0,940285
+287,Garlic-Country,VP,B,Kg,9,4,0,940287
+288,Garlic-Uthiri,VP,B,Kg,9,4,0,940288
+295,Tamarind,W,B,Kg,9,4,0,940295
+410,WheatGrass,VP,T,Kg,9,4,0,940410
+426,WheatGrass (Monthly),VP,T,Kg,9,4,0,940426
+373,Garlic-Big-Peeled,CB,T,Kg,9,4,3,943373
+422,Banana Nendran,FP,T,Kg,9,2,0,920422
+423,Banana karpuram,FP,T,Kg,9,2,0,920423
+435,Double Beans,VP,M,Kg,9,1,0,910435
+438,Watermelon,FP,B, Pc,1,2,0,120438
+439,Watermelon Half,CW,B, Pc,1,2,0,120439
+441, Kiwi,FP,T, Pc,1,2,0,120441
+440,Orange Malta,FP,M,Kg,9,2,0,920440
+442,Pineapple skin peeled,W,B, Pc,1,2,0,120442
+443,Asparagus,G,T,Kg,9,1,0,910443
+444,Vendhaya Keerai,G,T, Pc,1,3,0,130444
+446,Pinju vellari,VP,M,Kg,9,1,0,910446
+447,Yellow Pumpkin Organic ,CW,B,Kg,9,5,1,951447
+448,Tropical Amaranth Organic,GO,T, Pc,1,5,3,153448
+449,Red Amaranthus Tender Organic,GO,T, Pc,1,5,3,153449
+450,White Amaranthus  Organic,GO,T, Pc,1,5,3,153450
+451,Palak Organic,GO,T, Pc,1,5,3,153451
+452,Coriander Organic,GO,T, Pc,1,5,3,153452
+453,Bush Beans Organic,VP,M,Kg,9,5,1,951453
+454,Radish Organic,VP,B,Kg,9,5,1,951454
+455,Greenchilli Organic,VP,M,Kg,9,5,1,951455
+456,Ladiesfinger Organic,VP,M,Kg,9,5,1,951456
+457,Green Apple USA,FP,B,Kg,9,2,9,929457
+458,Red Currant,FP,T,Kg,9,2,9,929458
+459,Blueberries,FP,T,Kg,9,2,9,929459
+460,Cherries,FP,T,Kg,9,2,9,929460
+461,Strawberry Ooty,FP,T,Kg,9,2,9,929461
+462,Thai Guava,FP,B,Kg,9,2,9,929462
+463,Dragon Fruit,FP,M,Kg,9,2,9,929463
+464,Avocado,FP,M,Kg,9,2,9,929464
+465,Avocado Imported,FP,M,Kg,9,2,9,929465
+466,Plums Imported,FP,T,Kg,9,2,9,929466
+467,American Basil Organic,GO,T,Kg,9,5,1,951467
+469,Swiss Chard Organic,GO,T,Kg,9,5,1,951469
+470,Poll Beans Organic ,VP,M,Kg,9,5,1,951470
+471,Horse Gram Sprouts,SP,T,Kg,9,6,0,960471
+472,Black chickpeas Sprouts,SP,T,Kg,9,6,0,960472
+473,Cowpea Sprouts,SP,T,Kg,9,6,0,960473
+474,Mixed Sprouts,SP,T,Kg,9,6,0,960474
+475,Green Gram Sprouts,SP,T,Kg,9,6,0,960475
+476,Pearl Millet Sprouts,SP,T,Kg,9,6,0,960476
+477,Tender mango,VP,B,Kg,9,1,0,910477
+478,Orange Nagpur,FP,M,Kg,9,2,0,920478
+479,Amaranthus Organic,GO,T, Pc,1,5,3,153479
+480,Lettuce Purple,W,M,Kg,9,1,0,910480
+481,Lettuce Rocket ,W,M,Kg,9,1,0,910481
+482,Greenchilli Nagpur Organic,VP,M,Kg,9,5,1,951482
+483,Greenchilli Rajasthan Organic,VP,M,Kg,9,5,1,951483
+484,Coconut Organic,VP,B, Pc,1,5,1,151484
+485,Cowpea Organic,VP,B,Kg,9,5,1,951485
+486,Bitter Gourd Organic,VP,M,Kg,9,5,1,951486
+487,Alphonso Mango,FP,M,Kg,9,2,0,920487
+488,Raw Banana Organic,VP,B, Pc,1,5,1,151488
+489,Banganapalli Mango,FP,M,Kg,9,2,0,920489
+490,Plums Kodaikanal,FP,M,Kg,9,2,0,920490
+491,Soursop Small,FP,M,Kg,9,2,0,920491
+492,Imam Pasand Mango,FP,M,Kg,9,2,0,920492
+493,Sindhura Mango ,FP,M,Kg,9,2,0,920493
+494,Manila Tamarind,W,B,Kg,9,4,0,940494
+495,Passion Fruits,FP,M,Kg,9,2,0,920495
+496,Athisaya Ponni Organic,VP,M,Kg,9,9,1,991496
+497,Carrot-Grated,CB,T,Kg,9,1,5,915497
+499,Beam,FL,NA, Pc,1,8,0,180499
+500,Grin,FL,NA, Pc,1,8,0,180500
+501,Tickle,FL,NA, Pc,1,8,0,180501
+502,Banana Yelaki ,FP,T,Kg,9,2,0,920502
+503,Banana Hills,FP,T,Kg,9,2,0,920503
+504,Kale Organic,GO,T,Kg,9,5,3,953504
+505,Bottle Gourd Organic,VP,B, Pc,1,1,3,113505
+506,JackFruit Full Piece,FP,B, Pc,1,2,0,120506
+507,Lemon Grass,W,T,Kg,9,4,0,940507
+508,Cherry Tomato,VP,T,Kg,9,1,0,910508
+509,JackFruit seedless,FP,T, Pc,1,2,0,120509
+510,JackFruit-seed,FP,T, Pc,1,2,0,120510
+511,Coconut Grated,CB,T,Kg,9,1,5,915511
+512,Broad Beans Cut,CB,T,Kg,9,1,1,911512
+513,Turnip Organic,VP,B,Kg,9,5,0,950513
+514,Sorrel Leaves Organic,GO,T, Pc,1,5,0,150514
+515,Mint Destem,GD,T, Pc,1,3,4,134515
+516,Cabbage Grated,CB,T,Kg,9,1,5,915516
+517,Apple Shimla,FP,B,Kg,9,2,0,920517
+518,Carrot Purple Organic,W,M,Kg,9,5,0,950518
+519,Carrot Red Organic,W,M,Kg,9,5,0,950519
+520,Carrot White Organic,W,M,Kg,9,5,0,950520
+521,Sun melon,FP,T, Pc,1,2,0,120521
+522,Banana Green,FP,T,Kg,9,2,0,920522
+523,Fresh Fig,FP,T,Kg,9,2,0,920523
+524,Orange Imported,FP,M,Kg,9,2,0,920524
+525,Javadhu Mango,FP,M,Kg,9,2,0,920525
+526,Malgova Mango,FP,M,Kg,9,2,0,920526
+527,Mulampalam,FP,M, Pc,1,2,0,120527
+528,Dosakai,FP,T, Pc,1,2,0,120528
+529,Radish Red,VP,M,Kg,9,1,0,910529
+530,Curryleaves Destem,GD,T, Pc,1,3,4,134530
+531,Sweet Corn Peeled,CB,T,Kg,9,1,3,913531
+532,Malabar Cucumber,W,M, Pc,1,1,0,110532
+533,Sindhura Organic Mango 5 Kg,FP,M, Pc,1,5,0,150533
+534,Imam Pasand Organic Mango,FP,M, Pc,1,5,0,150534
+535,Kutch Kesar Mangoes Premium ,FP,M, Pc,1,5,0,150535
+536,Kutch Kesar Mangoes Special ,FP,M, Pc,1,5,0,150536
+537,Alphonso Organic Mango 2.5Kgs ,FP,M, Pc,1,5,0,150537
+538,Mango Combo Pack ,FP,M, Pc,1,5,0,150538
+269,Parwal,VP,M,Kg,9,1,0,910269
+312,JackFruit with seed,CB,T, Pc,1,2,0,120312
+307,Apple (Washington),FP,B,Kg,9,2,0,920307
+305,Apple Royal Gala,FP,B,Kg,9,2,0,920305
+1,Thank You for Your Order!,,, Pc,1,0,0,100001

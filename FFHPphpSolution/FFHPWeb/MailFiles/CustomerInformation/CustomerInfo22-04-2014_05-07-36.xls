@@ -1,0 +1,24 @@
+<div>
+	<table cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVOrderDetailsMail" style="color:Red;border-color:#D6EBF7;border-width:1px;border-style:Inset;width:100%;border-collapse:collapse;">
+		<tr align="left" style="color:White;background-color:#0071BD;font-family:arial;font-size:10pt;font-weight:bold;height:25px;">
+			<th scope="col">Sno</th><th scope="col">Order #</th><th scope="col">Name</th><th scope="col">Address</th><th scope="col">Pack</th>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    1
+    </td><td>707</td><td>hema  parthasarathy</td><td>no-1 narayanan st,k.f.sarabesh flats , D Block ,ground floor ,Agaram, perambur ,Agaram,chennai, Tamilnadu, 600082, India, T:044 26701950</td><td>YOYO 20</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    2
+    </td><td>708</td><td>hema  parthasarathy</td><td>no-1 narayanan st,k.f.sarabesh flats , D Block ,ground floor ,Agaram, perambur ,Agaram,chennai, Tamilnadu, 600082, India, T:044 26701950</td><td>YOYO 20</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    3
+    </td><td>709</td><td>Bipin  Bhatia</td><td>D5 Woodbridge, 3rd Floor
+19 Venkatraman Street, T. Nagar,, Chennai, Tamilnadu, 600017, India, T:9840947670</td><td>YOYO 20</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    4
+    </td><td>710</td><td>Jayaraman K</td><td>VIPANCHEE ,NO 113 4th STREET ,KARPAGAM AVENUE ,RAJA ANNAMALAIPURAM ,(Behind India Cements), Chennai, Tamilnadu, 600028, India, T:+919840684420</td><td>YOYO 25</td>
+		</tr>
+	</table>
+</div>

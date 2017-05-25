@@ -1,0 +1,85 @@
+<form name="aspnetForm" method="post" action="YOYOwithNames.aspx" id="aspnetForm" runat="server">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+</div>
+<div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVMail" style="border-collapse:collapse;">
+		<tr>
+			<td class="lblheading" align="right" valign="top" style="width:30px;">
+        1
+        </td><td>
+        <table width="100%">
+        
+        <tr>
+        <td><span id="ctl00_ContentPlaceHolder1_GVMail_ctl06_lblname" class="lblheading">Nataraj </span> <span id="ctl00_ContentPlaceHolder1_GVMail_ctl06_Label1" class="lblheading">M</span></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td colspan="2"><div>
+				<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVMail_ctl02_GvYOYOwithNameList" style="width:100%;border-collapse:collapse;">
+					<tr>
+						<td align="right"><b>790</b></td><td><b>YOYO 20</b></td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>EveryDay</b></td>
+					</tr><tr>
+						<td align="right">1</td><td>Tomato [Naadu] (1Kg)</td>
+					</tr><tr>
+						<td align="right">2</td><td>Mint (1 bundle)</td>
+					</tr><tr>
+						<td align="right">3</td><td>Coriander (1 bundle)</td>
+					</tr><tr>
+						<td align="right">4</td><td>Curryleaves (1 bundle)</td>
+					</tr><tr>
+						<td align="right">5</td><td>Greenchilli (150g) </td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>GOURDs</b></td>
+					</tr><tr>
+						<td align="right">6</td><td>Cucumber (250g)</td>
+					</tr><tr>
+						<td align="right">7</td><td>Yellow Pumpkin (250g)</td>
+					</tr><tr>
+						<td align="right">8</td><td>Bittergourd [Pavarkai] (250g) </td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>GROUNDs</b></td>
+					</tr><tr>
+						<td align="right">9</td><td>Beetroot (300g) </td>
+					</tr><tr>
+						<td align="right">10</td><td>Ginger (150g)</td>
+					</tr><tr>
+						<td align="right">11</td><td>Potato (500g) </td>
+					</tr><tr>
+						<td align="right">12</td><td>Radish [Mullangi] (250g) </td>
+					</tr><tr>
+						<td align="right">13</td><td>Carrot (500g)</td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>PEAs & BEANs</b></td>
+					</tr><tr>
+						<td align="right">14</td><td>Beans (500g)</td>
+					</tr><tr>
+						<td align="right">15</td><td>Broad beans [Avarakai] (250g)</td>
+					</tr><tr>
+						<td align="right">16</td><td>Cauliflower (1pc)</td>
+					</tr><tr>
+						<td align="right">17</td><td>Capsicum (250g) </td>
+					</tr><tr>
+						<td align="right">18</td><td>Ladiesfinger (500g)</td>
+					</tr><tr>
+						<td align="right">19</td><td>Banana Stem [Valathandu] (1pc)</td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>GREENs</b></td>
+					</tr><tr>
+						<td align="right">20</td><td>Arakeerai (1 bundle)</td>
+					</tr><tr>
+						<td align="right">&nbsp;</td><td><b>BANGANAPALLI MANGOEs (Optional)</b></td>
+					</tr><tr>
+						<td align="right">21</td><td>B.M 2.5Kgs Rs. 280</td>
+					</tr>
+				</table>
+			</div></td>
+        </tr>
+        </table>
+        </td>
+		</tr>
+	</table>
+</div></form>

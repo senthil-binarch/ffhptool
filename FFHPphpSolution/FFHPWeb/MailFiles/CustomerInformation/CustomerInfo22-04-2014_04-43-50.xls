@@ -1,0 +1,74 @@
+<div>
+	<table cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_ContentPlaceHolder1_GVOrderDetailsMail" style="color:Red;border-color:#D6EBF7;border-width:1px;border-style:Inset;width:100%;border-collapse:collapse;">
+		<tr align="left" style="color:White;background-color:#0071BD;font-family:arial;font-size:10pt;font-weight:bold;height:25px;">
+			<th scope="col">Sno</th><th scope="col">Order #</th><th scope="col">Name</th><th scope="col">Address</th><th scope="col">Pack</th>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    1
+    </td><td>742</td><td>Rani  Moses</td><td>3F, III Block, Prapancha Apartments, Madhakoil Street, Okkiam Thoraipakkam, Chennai-600097, Chennai, Tamilnadu, 600097, India, T:9382314300</td><td>Prime Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    2
+    </td><td>744</td><td>CAROLINE  MARTIN</td><td>PLOT NO 1552 MIG
+TNHB MAIN ROAD, VELACHERY, Chennai, Tamilnadu, 600042, India, T:9444727978</td><td>Dew Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    3
+    </td><td>746</td><td>INDIRA GANESAN GANESAN</td><td>E 45/2, 21 st  cross st, besant nagar,, Chennai, Tamilnadu, 600090, India, T:9340007495</td><td>Shine Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    4
+    </td><td>748</td><td>Gourishankar V</td><td>S7, White Pearl, 21/4 Manimegalai Street. East Tamabaram, Chennai, Tamilnadu, 600059, India, T:9841663033</td><td>Prime Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    5
+    </td><td>749</td><td>indira ganesan</td><td>E 45/2, 21 st cross st
+besant nagar, Chennai, Tamilnadu, 600090, India, T:9340007495</td><td>Prime Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    6
+    </td><td>750</td><td>Manoharan Ramaswamy</td><td>14a,   First Floor, Nehru street,   Anna Nedumpathai,    Choolaimedu,   Chennai 600094 - Tamil nadu, Chennai, Tamilnadu, 600094, India, T:9962503833</td><td>Dew Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    7
+    </td><td>752</td><td>Chaya Golecha</td><td>Old numb 121 new no 12
+appar swamy koil st, mylapore, Chennai, Tamilnadu, 600004, India, T:+91 95 00 115588</td><td>Alphonso 5Kgs</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    8
+    </td><td>754</td><td>Vrajesh N</td><td>754 new no 430 Chaturbhujadas road poonamallee high road kilpauk chennai 600010, Chennai, Tamilnadu, 600010, India, T:9566004432</td><td>YOYO Combo</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    9
+    </td><td>756</td><td>jayaseeli mohanraj</td><td>85/27, Chennai, Tamilnadu, 600102, India, T:9841890651</td><td>Shine Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    10
+    </td><td>757</td><td>Neelesh V Bomb</td><td>old no: 33/2 Rukmani Street
+W. Mambalam, Chennai, Tamilnadu, 600033, India, T:9840085037</td><td>YOYO 10</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    11
+    </td><td>759</td><td>Anand Kalathil</td><td>J3 CENTURY ANCHORAGE, 29, 4TH SEAWARD ROAD, VALMIKI NAGAR, 
+THIRUVANMIYUR, CHENNAI, Tamilnadu, 600041, India, T:9940187778</td><td>Dew Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    12
+    </td><td>760</td><td>SANJIV MOHANTY</td><td>Jain Abhinavan, Block no 7,F2,Murugu Nagar extn, Velachery, Chennai, Tamilnadu, 600042, India, T:8754406043</td><td>Taaza Pack</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    13
+    </td><td>762</td><td>Shantharaj  Devaneson</td><td>No 39, 5th Cross Street, Saravana Nagar, Madambakkam Main road, Rajakilpakkam
+Left at palamudir nilayam ( after Hansa garden flats) then second left  road will end at no 39 5th cross, Chennai, Tamilnadu, 600073, India, T:9841398373</td><td>YOYO 20</td>
+		</tr><tr align="left" style="color:#212463;background-color:#CEE7F7;font-family:arial;font-size:13px;">
+			<td>
+    14
+    </td><td>763</td><td>Sucharita Kamath</td><td>B23 Chaitanya Nest, 9 rathna Nagar Main Road, Chennai, Tamilnadu, 600018, India, T:9841001803</td><td>YOYO 20</td>
+		</tr><tr align="left" style="color:#212463;background-color:#F7F7DE;font-family:arial;font-size:13px;">
+			<td>
+    15
+    </td><td>764</td><td>Shantha Ravikumar</td><td>D7, ALSA Towers Residential Complex, 
+187 Poonamallee High Road, Kilpauk, Chennai, Tamilnadu, 600010, India, T:94444 93437</td><td>YOYO 20</td>
+		</tr>
+	</table>
+</div>
