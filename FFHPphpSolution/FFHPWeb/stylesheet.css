@@ -1,0 +1,512 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;	
+	font-family:Calibri;
+}
+
+.obj
+{
+	background-color:#F0F0F0;
+	
+}
+
+
+input[readonly]
+{
+	background-color:#F0F0F0 !important;
+	color:#303030 !important;
+}
+
+/*Usrname
+{
+	 font-family:Tahoma;
+	 font-size:medium;	
+	 	
+} */
+
+
+h1 {
+    font-family:Tahoma;
+	color:#FFFFFF;
+}
+h4
+{
+	background-color:#D12C33;
+	color:White;
+	padding:5px;
+	vertical-align:middle;
+}
+.header
+{ 
+	/*background: white url('../images/header.jpg') repeat left center;*/
+	background-image:url('../images/header.jpg');
+background-repeat:inherit;
+	}
+.txt1 {
+   font-family:Calibri (Body),Arial;
+   font-size:12px;
+   color:#000000;
+   text-decoration:none;
+}
+.txt1 a{
+   font-family:Calibri (Body),Arial;
+   font-size:12px;
+   color:#000000;
+   text-decoration:none;
+}
+.txt1 a:hover{
+   font-family:Calibri (Body),Arial;
+   color:#000000;
+   font-size:12px;
+   text-decoration:underline;
+}
+
+.whitxt {
+   font-family:Calibri (Body),Arial;
+   font-size:12px;
+   color:#FFFFFF;
+}
+.boldtxt {
+    font-family: Calibri (Body),Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #212463;
+	text-decoration: none;
+
+}
+.txt{
+	font-family: Calibri (Body),Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #212463;
+	text-decoration: none;
+	border: 1px solid #000000;
+}
+.lbl{
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/*color: #FFFFFF;*/
+	color: #212463;
+	text-decoration: none;
+	vertical-align:top;
+}
+.lbl a{
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/*color: #FFFFFF;*/
+	color: #212463;
+	text-decoration: none;
+}
+.lbl a:hover{
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/*color: #FFFFFF;*/
+	color: #212463;
+	text-decoration: underline;
+}
+.lblheading{
+	font-family: Calibri (Body),Arial;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	/*border-bottom-color: gray;
+    border-bottom-style: inset;
+    border-bottom-width: 3px;*/
+}
+.lblpath{
+	font-family: Calibri (Body),Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+}
+.lbllblheading a{
+	font-family: Calibri (Body),Arial;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+}
+.lbllblheading a:hover{
+	font-family: Calibri (Body),Arial;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: underline;
+}
+.lblsubheading{
+	font-family: Calibri (Body),Arial;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color:Black;
+}
+.lblsubheading a{
+	font-family: Calibri (Body),Arial;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color:Black;
+}
+.lblsubheading a:hover{
+	font-family: Calibri (Body),Arial;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: underline;
+	color:Black;
+}
+.pass {   border:1px solid #3DA4FF;
+   background-color:#FFFFFF;
+}
+.username {   background: white url('images/your-email.gif') no-repeat left center;
+   border:1px solid #3DA4FF;
+   background-color:#FFFFFF;
+}
+.lbluser
+{
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	/*color: #212463;*/
+	text-decoration: none;
+	
+	/*font-family:Tahoma;
+	font-size:medium;	*/
+	float:right;
+}
+.btn1
+{
+	
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	/*color: #212463;*/
+	text-decoration: none;
+	background-image:url('../images/center.png/') ;
+}
+input1[type="submit"]
+{
+	
+	font-family: Calibri (Body),Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	/*color: #212463;*/
+	text-decoration: none;
+	background-image:url('../images/center.png/') ;
+}
+.grayline
+{
+	
+}
+.unitlbl
+{
+	font-family: Calibri (Body),Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #212463;
+	text-decoration: none;
+	font-weight:bold;
+	padding-left:5px;
+}
+/* For Drop Down */
+.selectbox
+{
+/*margin: 0px 5px 10px 0px;*/
+/*padding-left:2px;*/
+font-family:Calibri (Body),Arial, sans-serif;
+font-size:12px;/* Resize Font*/
+width : 130px;  /*Resize Width */
+display : block;
+text-align:left;
+/*background: url('Images/bg_select.png') right;*/
+cursor: pointer;
+border:1px solid #003333;
+color:#003333;
+vertical-align:middle;
+/*border-radius: 5px;
+height: 25px;*/
+}
+/* Column Hidden */
+.hidden{ display: none; }
+
+/* Button Styles */
+
+input[type="submit"]
+ {
+    
+    /*Step 2: Basic Button Styles*/
+    display: block;
+    /*height:25px;*/
+    background: #34696f;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+    
+    /*Step 3: Text Styles*/
+    /*color: rgba(0, 0, 0, 0.55);*/
+    color:White;
+    text-align: center;
+    /*font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+    /*font:bold 1em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+    
+    /*Step 4: Fancy CSS3 Styles*/
+    background: -webkit-linear-gradient(top, #34696f, #2f5f63);
+    background: -moz-linear-gradient(top, #34696f, #2f5f63);
+    background: -o-linear-gradient(top, #34696f, #2f5f63);
+    background: -ms-linear-gradient(top, #34696f, #2f5f63);
+    background: linear-gradient(top, #34696f, #2f5f63);
+    
+    -webkit-border-radius: 50px;
+    -khtml-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    
+    -webkit-box-shadow: 0 8px 0 #1b383b;
+    -moz-box-shadow: 0 8px 0 #1b383b;
+    box-shadow: 0 4px 0 #1b383b;
+    
+    /*text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);*/
+    
+}
+
+/*Step 3: Link Styles*/
+a.input[type="submit"]
+{
+    text-decoration: none;
+}
+
+/*Step 5: Hover Styles*/
+a.input[type="submit"]:hover {
+    background: #3d7a80;
+    background: -webkit-linear-gradient(top, #3d7a80, #2f5f63);
+    background: -moz-linear-gradient(top, #3d7a80, #2f5f63);
+    background: -o-linear-gradient(top, #3d7a80, #2f5f63);
+    background: -ms-linear-gradient(top, #3d7a80, #2f5f63);
+    background: linear-gradient(top, #3d7a80, #2f5f63);
+}
+
+
+
+
+/*!!!!!!!!!!! MyCSSMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/
+.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmclear {font-size:1px;height:0px;width:0px;clear:left;line-height:0px;display:block;float:none !important;}.qmmc {position:relative;zoom:1;z-index:10;}.qmmc a, .qmmc li {float:left;display:block;white-space:nowrap;position:relative;z-index:1;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc li {z-index:auto;}.qmmc ul {left:-10000px;position:absolute;z-index:10;}.qmmc, .qmmc ul {list-style:none;padding:0px;margin:0px;}.qmmc li a {float:none}.qmmc li:hover>ul{left:auto;}#qm0 li {float:none;}#qm0 li:hover>ul{top:0px;left:100%;}
+
+
+/*!!!!!!!!!!! MyCSSMenu Styles [Please Modify!] !!!!!!!!!!!*/
+
+
+	/* MyCSSMenu 0 */
+
+	/*"""""""" (MAIN) Container""""""""*/	
+	#qm0	
+	{	
+		width:200px;
+		background-color:transparent;
+		border-width:1px 2px;
+		border-style:solid;
+		border-color:#C00000;
+	}
+
+
+	/*"""""""" (MAIN) Items""""""""*/	
+	#qm0 a	
+	{	
+		padding:5px 5px 5px 8px;
+		background-color:#FFFFFF;
+		color:#000000;
+		font-family:Calibri (Body),Arial;
+		font-size:13px;
+		text-align:left;
+		text-decoration:none;
+		border-width:1px 0px;
+		border-style:solid;
+		border-color:#C00000;
+	}
+
+
+	/*"""""""" (MAIN) Active State""""""""*/	
+	body #qm0 .qmactive, body #qm0 .qmactive:hover	
+	{	
+		text-decoration:underline;
+	}
+
+
+	/*"""""""" (SUB) Container""""""""*/	
+	#qm0 div, #qm0 ul	
+	{	
+		padding:10px 0px;
+		background-color:#F8FDF5;
+		border-width:1px;
+		border-style:none;
+		border-color:#CCCCCC;
+	}
+
+
+	/*"""""""" (SUB) Items""""""""*/	
+	#qm0 div a, #qm0 ul a	
+	{	
+		padding:2px 0px 2px 15px;
+		margin:0px 5px;
+		background-color:transparent;
+		background-image:none;
+		border-width:1px;
+		border-style:solid;
+		border-color:#F8FDF5;
+	}
+
+
+	/*"""""""" (SUB) Hover State""""""""*/	
+	#qm0 div a:hover, #qm0 ul a:hover	
+	{	
+		text-decoration:underline;
+	}
+
+
+	/*"""""""" (SUB) Active State""""""""*/	
+	body #qm0 div .qmactive, body #qm0 div .qmactive:hover	
+	{	
+		background-color:#D7F7C6;
+		border-color:#999999;
+	}
+	/*"""""""" For Menu""""""""*/	
+	.vertmenu {
+font-family:Calibri (Body),Arial,Helvetica,sans-serif;
+font-size:15px;
+font-weight:bold;
+width: 133px;
+padding-left:0px;
+margin: 0px;
+}
+
+.vertmenu ul {
+list-style: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+.vertmenu ul li {
+margin: 0px;
+padding: 0px;
+}
+.vertmenu ul li a {
+	display: block;
+	/*border-bottom: 1px dashed #a6a2a2;*/
+	padding: 15px 0px 7px 45px;
+	text-decoration: none;
+	color: #FFFFFF;
+	/*color: #212463;*/
+	/*width:150px;chaged by mahi*/
+	width:145px;
+	/*border-bottom: 1px dotted #0D4270;*/
+	background-attachment: scroll;
+	background-image: url(../images/Button_00-01.png);
+	background-repeat: no-repeat;
+/*	background-position: 13px center; chaged by mahi*/
+	background-position: 6px center;
+	text-decoration:none;
+}
+.vertmenu ul li div a {
+	display: block;
+	/*border-bottom: 1px dashed #a6a2a2;*/
+	padding: 7px 0px 7px 37px;
+	text-decoration: none;
+	color: #FFFFFF;
+	/*color: #212463;*/
+	width:143px;
+	/*border-bottom: 1px dotted #0D4270;*/
+	background-attachment: scroll;
+	background-image: url(../images/lock-icon.png);
+	background-repeat: no-repeat;
+	background-position: 13px center;
+	text-decoration:none;
+}
+
+.vertmenu ul li a:hover, #vertmenu ul li a:focus{
+color: #FFFFFF;
+/*background-color:#0D4270;*/
+background-image: url(../images/Button_00-02.png);
+text-decoration:none;
+}
+.vertmenu ul li .vercurrent {
+    color: #FFFFFF;
+	text-decoration:none;
+    /*background-color:#0D4270;*/
+    background-image: url(../images/Button_00-02.png);
+}
+
+/*"""""""" For Plus minues""""""""*/	
+.plus
+{
+	display:none;
+}
+.minus
+{
+	display:block;
+}
